@@ -1,2 +1,13 @@
-This is the file
-echo "This is the updated study file"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   study.sh
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.study.sh.swp
+
+no changes added to commit (use "git add" and/or "git commit -a")
